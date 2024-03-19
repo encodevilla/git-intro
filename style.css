@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: popins,sans-serif;
+}
+body{
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: slateblue;
+}
+.wrapper{
+    width: 420px;
+    background: palegoldenrod;
+    color: aliceblue;
+}
+.wrapper h1{
+    font-size: 36px;
+    text-align: center;
+}
+.wrapper input-box{
+    width: 100%;
+    height: 50px;
+    background: slateblue;
+    margin: 30px;
+}
+.input-box input{
+    background-color: transparent;
+    background-origin: none;
+    border-radius: 40px;
+
+}
+.input-box input::placeholder{
+    color: blue;
+
+}
