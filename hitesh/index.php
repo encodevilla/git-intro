@@ -19,7 +19,7 @@
         }
 	</style>
 	<body>
-		<nav class="navbar expand-lg fixed-top" style="background-color: #00ffff;">
+		<nav class="navbar expand-lg fixed-top " style="background-color: #00ffff;">
 		  <div class="container-fluid">
 		    <a class="navbar-brand" target="_blank" href="../index.html">
 		      	<img src="../img/logo.jpg" width="30" height="24" class="d-inline-block align-text-top">
@@ -30,10 +30,17 @@
 		    </a>
 		  </div>
 		</nav>
-		<div class="container" style="margin-top: 80px; margin-left: 15px; margin-bottom: 100px;">
-			<div class="row">
-				<div class="col-sm-12 col-lg-2 col-md-4">
-					<div class="card  " style="width: 18rem; margin-bottom: 10px;">
+		<div class="row border" style="margin:60px;">
+			<div class="col-md-9 m-auto">
+				<?php
+					include 'slider.php';
+				?>
+			</div>	
+		</div>
+		<div class="container">
+			<div class="row mb-5">
+				<div class="col-sm-12 col-lg-4 col-md-4">
+					<div class="card" style="width: 18rem; margin-bottom: 10px;">
 					  <img src="img/practicals/1_page.png" class="card-img-top" alt="..." style="height: 200px;">
 					  <div class="card-body">
 					    <h5 class="card-title">my 1st page</h5>
@@ -45,7 +52,7 @@
 					  </div>
 					</div>	
 				</div>
-				<div class="col-sm-12 col-lg-2 col-md-4"  style="margin-left:115px">
+				<div class="col-sm-12 col-lg-4 col-md-4">
 					<div class="card  " style="width: 18rem;">
 					  <img src="img/practicals/2_page.png" class="card-img-top" alt="..." style="height: 200px;">
 					  <div class="card-body">
@@ -58,7 +65,7 @@
 					  </div>
 					</div>	
 				</div>
-				<div class="col-sm-12 col-lg-2 col-md-4" style="margin-left:115px">
+				<div class="col-sm-12 col-lg-4 col-md-4">
 					<div class="card  " style="width: 18rem;">
 					  <img src="img/practicals/3_page.png" class="card-img-top" alt="..." style="height: 200px;">
 					  <div class="card-body">
@@ -71,7 +78,7 @@
 					  </div>
 					</div>	
 				</div>
-				<div class="col-sm-12 col-lg-2 col-md-4" style="margin-left:115px">
+				<div class="col-sm-12 col-lg-4 col-md-4" >
 					<div class="card  " style="width: 18rem;">
 					  <img src="img/practicals/4_page.png" class="card-img-top" alt="..." style="height: 200px;">
 					  <div class="card-body">
@@ -84,7 +91,7 @@
 					  </div>
 					</div>	
 				</div>
-				<div class="col-sm-12 col-lg-2 col-md-4" style="margin-left:1px;" style="margin-top:10px">
+				<div class="col-sm-12 col-lg-4 col-md-4">
 					<div class="card  " style="width: 18rem; margin-bottom: 10px;">
 					  <img src="img/practicals/5_page.png" class="card-img-top" alt="..." style="height: 200px;">
 					  <div class="card-body">
@@ -97,7 +104,7 @@
 					  </div>
 					</div>	
 				</div>
-				<div class="col-sm-12 col-lg-2 col-md-4" style="margin-left:115px">
+				<div class="col-sm-12 col-lg-4 col-md-4">
 					<div class="card  " style="width: 18rem;">
 					  <img src="img/practicals/6_page.png" class="card-img-top" alt="..." style="height: 200px;">
 					  <div class="card-body">
@@ -110,7 +117,7 @@
 					  </div>
 					</div>	
 				</div>
-				<div class="col-sm-12 col-lg-2 col-md-4" style="margin-left:115px">
+				<div class="col-sm-12 col-lg-4 col-md-4">
 					<div class="card  " style="width: 18rem;">
 					  <img src="img/practicals/7_page.png" class="card-img-top" alt="..." style="height: 200px;">
 					  <div class="card-body">
@@ -123,7 +130,7 @@
 					  </div>
 					</div>	
 				</div>
-				<div class="col-sm-12 col-lg-2 col-md-4" style="margin-left:115px">
+				<div class="col-sm-12 col-lg-4 col-md-4">
 					<div class="card  " style="width: 18rem;">
 					  <img src="img/practicals/8_page.png" class="card-img-top" alt="..." style="height: 200px;">
 					  <div class="card-body">
@@ -136,7 +143,7 @@
 					  </div>
 					</div>	
 				</div>
-				<div class="col-sm-12 col-lg-2 col-md-4" style="margin-left:306px">
+				<div class="col-sm-12 col-lg-4 col-md-4">
 					<div class="card  " style="width: 18rem;">
 					  <img src="img/practicals/9_page.png" class="card-img-top" alt="..." style="height: 200px;">
 					  <div class="card-body">
@@ -149,7 +156,7 @@
 					  </div>
 					</div>	
 				</div>
-				<div class="col-sm-12 col-lg-2 col-md-4" style="margin-left:115px">
+				<div class="col-sm-12 col-lg-4 col-md-4">
 					<div class="card  " style="width: 18rem;">
 					  <img src="img/practicals/10_page.png" class="card-img-top" alt="..." style="height: 200px;">
 					  <div class="card-body">
