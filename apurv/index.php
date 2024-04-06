@@ -1,3 +1,6 @@
+<?php 
+    include("../config.php");
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,7 +15,7 @@
 		<div class="container-fluid">
 				<a class="navbar-brand" href="/index.html">
 							<img src="../img/logo.jpg" alt="logo" width="30" height="24" class="d-inline-block align-text-top">
-				              Encodevilla
+				            <?php echo $app_name; ?>
 				</a>
 		</div>
 </nav>

@@ -1,3 +1,6 @@
+<?php 
+	include("config.php"); 
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,7 +15,7 @@
 	  <div class="container-fluid">
 	    <a class="navbar-brand" href="#">
 	      	<img src="img/logo.jpg" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
-	      Encodevilla
+		    <?php echo $app_name; ?>
 	    </a>
 	  </div>
 	</nav>
@@ -30,7 +33,7 @@
 				    	Mo : 7874182201
 				    </p>
 				    <div class="text-center">
-				    	<a href="apurv/index.html" class="btn btn-primary">Go to My Webite</a>
+				    	<a href="apurv/index.php" class="btn btn-primary">Go to My Webite</a>
 
 				    </div>
 				  </div>
@@ -48,7 +51,7 @@
 				    	Mo : 9054966947
 				    </p>
 				    <div class="text-center">
-				    	<a href="hitesh/index.html" class="btn btn-primary">Go to My Webite</a>
+				    	<a href="hitesh/index.php" class="btn btn-primary">Go to My Webite</a>
 				    </div>
 
 				  </div>
