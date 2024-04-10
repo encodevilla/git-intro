@@ -49,11 +49,23 @@
 				    <div class="text-center">
 				    	<a href="hitesh/index.php" class="btn btn-primary">Go to My Webite</a>
 				    </div>
-
 				  </div>
 				</div>	
 			</div>
+			<div class="col-sm-12 col-lg-4 col-md-6">
+				<div class="card mx-auto mb-3" style="width: 18rem;">
+				  <div class="card-body">
+				  	<div style="text-align: center; margin: 165px 0px; font-size: 100px; ">
+				  		<a href="model.php" data-bs-toggle="modal" data-bs-target="#exampleModal" style="text-decoration: none;">+</a>
+				  	</div>
+				  </div>
+				</div>	
+			</div>
+			
 		</div>
 	</div>
+	<?php
+		include 'model.php';
+	?>
 </body>
 </html>
