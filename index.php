@@ -14,6 +14,9 @@
 	      	<img src="img/logo.jpg" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
 	      Encodevilla
 	    </a>
+	    <?php
+	    	include 'hitesh/offcanvas.php';
+	    ?>
 	  </div>
 	</nav>
 	<div class="container" style="margin-top: 80px;">
@@ -60,8 +63,7 @@
 				  	</div>
 				  </div>
 				</div>	
-			</div>
-			
+			</div>	
 		</div>
 	</div>
 	<?php
