@@ -1,5 +1,5 @@
 <?php
-	include("../config.php");
+	include("header.php");
 ?>
 <!DOCTYPE html>
 <html>
@@ -24,9 +24,8 @@
 			    <a class="navbar-brand" target="_blank" href="../index.php">
 		      	<img src="../img/logo.jpg" width="30" height="24" class="d-inline-block align-text-top">
 				    Encodevilla
-				    <?php
-				      	echo $header_name;
-				    ?>
+				    
+        			<?php echo $header_name; ?>
 			    </a>
 			</div>
 		</nav>
