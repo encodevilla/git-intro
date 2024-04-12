@@ -33,7 +33,7 @@
 				    	Mo : 7874182201
 				    </p>
 				    <div class="text-center">
-				    	<a href="apurv/page.html" class="btn btn-primary">Go to My Webite</a>
+				    	<a href="apurv/index.php" class="btn btn-primary">Go to My Webite</a>
 				    </div>
 				  </div>
 				</div>	
@@ -50,11 +50,14 @@
 				    	Mo : 9054966947
 				    </p>
 				    <div class="text-center">
-				    	<a href="hitesh/index.php" class="btn btn-primary">Go to My Webite</a>
+				    	<a href="hitesh/index.html" class="btn btn-primary">Go to My Webite</a>
 				    </div>
+
 				  </div>
 				</div>	
 			</div>
+		</div>
+	</div>
 			<div class="col-sm-12 col-lg-4 col-md-6">
 				<div class="card mx-auto mb-3" style="width: 18rem;">
 				  <div class="card-body">
