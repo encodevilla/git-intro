@@ -15,8 +15,8 @@
                         <input type="inputFullName" class="form-control" id="inputFullName" placeholder="enter your name">
                     </div>
                     <div class="col-md-6">
-                        <label for="inputPassword4" class="form-label">Details</label>
-                        <input type="Details" class="form-control" placeholder="enter your Details">
+                        <label for="inputPassword4" class="form-label">Collage Name</label>
+                        <input type="Details" class="form-control" placeholder="enter your Collage">
                     </div>
                     <div class="col-12">
                         <label for="inputAddress" class="form-label">Address</label>
@@ -50,9 +50,34 @@
                         <label for="inputZip" class="form-label">Zip</label>
                         <input type="text" class="form-control" id="inputZip">
                     </div>
+                    <div class="mb-3">
+                        <label for="formFileSm" class="form-label">Small file input example</label>
+                        <input class="form-control form-control-sm" id="formFileSm" type="file">
+                    </div>
                     <div class="col-md-4">
                         <label for="inputZip" class="form-label">Phone No</label>
                         <input type="text" class="form-control" id="inputZip" placeholder="enter your no">
+                    </div>
+                    <div class="col-md-4 m-2 mt-4">
+                        <div class="row">
+                            <div class="col-12">
+                                <label  class="form-check-label" for="flexRadioDefault1"> Gender</label>
+                            </div>
+                            <div class="form-check col-md-6">
+                                <input class="form-check-input" type="radio" name="flexRadioDefault" 
+                                    id="flexRadioDefault1">
+                                <label class="form-check-label" for="flexRadioDefault1">
+                                    Male
+                                </label>
+                            </div>
+                            <div class="form-check col-md-6">
+                                <input class="form-check-input" type="radio" name="flexRadioDefault"
+                                    id="flexRadioDefault2" checked>
+                                <label class="form-check-label" for="flexRadioDefault2">
+                                    Female
+                                </label>        
+                            </div>  
+                        </div>
                     </div>
                     <div class="col-12">
                         <div class="form-check">
