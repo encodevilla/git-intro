@@ -39,7 +39,7 @@
 		</div>
 		<div class="container">
 			<div class="row mb-5">
-				<div class="col-sm-12 col-lg-4 col-md-4">
+				<div class="col-sm-12 col-lg-4 col-md-6">
 					<div class="card" style="width: 18rem; margin-bottom: 10px;">
 					  	<img src="img/practicals/1_page.png" class="card-img-top" alt="..." style="height: 200px;">
 					  	<div class="card-body">
@@ -52,7 +52,7 @@
 					  	</div>
 					</div>	
 				</div>
-				<div class="col-sm-12 col-lg-4 col-md-4">
+				<div class="col-sm-12 col-lg-4 col-md-6">
 					<div class="card  " style="width: 18rem;">
 						<img src="img/practicals/2_page.png" class="card-img-top" alt="..." style="height: 200px;">
 					  	<div class="card-body">
@@ -65,7 +65,7 @@
 					  	</div>
 					</div>	
 				</div>
-				<div class="col-sm-12 col-lg-4 col-md-4">
+				<div class="col-sm-12 col-lg-4 col-md-6">
 					<div class="card  " style="width: 18rem;">
 						<img src="img/practicals/3_page.png" class="card-img-top" alt="..." style="height: 200px;">
 						<div class="card-body">
@@ -78,7 +78,7 @@
 						</div>
 					</div>	
 				</div>
-				<div class="col-sm-12 col-lg-4 col-md-4" >
+				<div class="col-sm-12 col-lg-4 col-md-6" >
 					<div class="card  " style="width: 18rem;">
 					  	<img src="img/practicals/4_page.png" class="card-img-top" alt="..." style="height: 200px;">
 					  	<div class="card-body">
@@ -91,7 +91,7 @@
 					  	</div>
 					</div>	
 				</div>
-				<div class="col-sm-12 col-lg-4 col-md-4">
+				<div class="col-sm-12 col-lg-4 col-md-6">
 					<div class="card  " style="width: 18rem; margin-bottom: 10px;">
 					  	<img src="img/practicals/5_page.png" class="card-img-top" alt="..." style="height: 200px;">
 					  	<div class="card-body">
@@ -104,7 +104,7 @@
 					  	</div>
 					</div>	
 				</div>
-				<div class="col-sm-12 col-lg-4 col-md-4">
+				<div class="col-sm-12 col-lg-4 col-md-6">
 					<div class="card  " style="width: 18rem;">
 					  	<img src="img/practicals/6_page.png" class="card-img-top" alt="..." style="height: 200px;">
 					  	<div class="card-body">
@@ -117,7 +117,7 @@
 					  	</div>
 					</div>	
 				</div>
-				<div class="col-sm-12 col-lg-4 col-md-4">
+				<div class="col-sm-12 col-lg-4 col-md-6">
 					<div class="card  " style="width: 18rem;">
 					  	<img src="img/practicals/7_page.png" class="card-img-top" alt="..." style="height: 200px;">
 					  	<div class="card-body">
@@ -130,7 +130,7 @@
 					  	</div>
 					</div>	
 				</div>
-				<div class="col-sm-12 col-lg-4 col-md-4">
+				<div class="col-sm-12 col-lg-4 col-md-6">
 					<div class="card  " style="width: 18rem;">
 						<img src="img/practicals/8_page.png" class="card-img-top" alt="..." style="height: 200px;">
 					  	<div class="card-body">
@@ -143,7 +143,7 @@
 					  	</div>
 					</div>	
 				</div>
-				<div class="col-sm-12 col-lg-4 col-md-4">
+				<div class="col-sm-12 col-lg-4 col-md-6">
 					<div class="card  " style="width: 18rem;">
 						<img src="img/practicals/9_page.png" class="card-img-top" alt="..." style="height: 200px;">
 					  	<div class="card-body">
@@ -157,7 +157,7 @@
 					  	</div>
 					</div>	
 				</div>
-				<div class="col-sm-12 col-lg-4 col-md-4">
+				<div class="col-sm-12 col-lg-4 col-md-6">
 					<div class="card  " style="width: 18rem;">
 					  	<img src="img/practicals/10_page.png" class="card-img-top" alt="..." style="height: 200px;">
 					  	<div class="card-body">
