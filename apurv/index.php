@@ -1,6 +1,6 @@
 <?php 
     include("../config.php");
-    include 'model.php';
+    include ("model.php");
 ?>
 <!DOCTYPE html>
 <html>
@@ -8,19 +8,35 @@
     	<meta charset="utf-8">
     	<meta name="viewport" content="width=device-width, initial-scale=1">
     	<title>Git Introducation</title>
-    	<link rel="stylesheet" type="text/css" href="../bootstrap-5.3.3-dist/css/bootstrap.min.css">
+    	<link rel="stylesheet" type="text/css" href="../bootstrap-5.3.3-dist/css/bootstrap.min.css">\
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
     	<script type="text/javascript" src="../bootstrap-5.3.3-dist/js/bootstrap.min.js"></script>
     </head>
     <body>
+
         <nav class="navbar expand-lg fixed-top" style="background-color: #0000ff;">
         	<div class="container-fluid">
-        		<a class="navbar-brand" href="/index.html">
+        		<a class="navbar-brand" href="../index.php">
         			<img src="../img/logo.jpg" alt="logo" width="30" height="24" class="d-inline-block align-text-top">
         			<?php echo $app_name; ?>
         		</a>
         	</div>
         </nav>
         <div class="container" style="margin-top:80;">
+            <div class="row">
+                <div class="col offset-md-10" style="border :1px solid;">
+                    <div class="dropdown">
+                        <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false"   
+                             style="text-align: right;">
+                             Dropdown button
+                        </button>
+                          <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="index.php">card</a></li>
+                            <li><a class="dropdown-item" href="scrollspy.php">scrollspy</a></li>
+                          </ul>
+                    </div>
+                </div>
+            </div>
             <div class="row">
                 <div class="col-sm-12 col-lg-3 col-md-4">
          		    <div style="margin-top: 100px;">
@@ -30,8 +46,6 @@
           						<h5 class="card-title" style="margin: 100px;text-align: center; font-size: 73px;"><a href="model.php" data-bs-toggle="modal" data-bs-target="#staticBackdrop" style="text-decoration: none;">
                                     +</a>
                                 </h5>
-                            	
-                            
             		            <div class="text-center">
                                     <a href="" class=""></a>
                                 </div>
@@ -117,7 +131,6 @@
                         </div>
                     </div>
                 </div>
-
                 <div class="col-sm-12 col-lg-3 col-md-4">
                     <div style="margin-top: 100px;">
                         <div class="card" style="width: 18rem;">
